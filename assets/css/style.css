@@ -1,0 +1,34 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background-image: url(https://previews.123rf.com/images/outsiderzone/outsiderzone1204/outsiderzone120400858/13386850-Bright-blue-over-old-dirty-wall-urban-hip-hop-background-Gray-texture-painted-with-bright-colorful-Stock-Photo.jpg);
+}
+
+#quiz {
+	margin-left: 10px;
+	background: #1E90FF;
+	padding: 10px 20px 10px 20px;
+	width: 400px;
+	border-radius: 20px;
+	float: left;
+}
+
+#button {
+	background: #DCDCDC;
+	border: none;
+	border-radius: 5px;
+	padding: 10px;
+	color: black;
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+#after_submit {
+	visibility: hidden;
+	background: #8A2BE2;
+	padding: 10px 20px 10px 20px;
+	width: 400px;
+	border-radius: 20px;
+	float: left;
+	margin-left: 20px;
+	font-size: 30px;
+}
